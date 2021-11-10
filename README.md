@@ -1,4 +1,4 @@
-# Projects_DiSi
+# JavaSocket_ChatsCS
 # Server :
 -To communicate with the client, the server uses two type of sockets
 1) ServerSocket : this class is used by the server to declare a ServerSocket object which the server needs to listen to connection requests from the clients
