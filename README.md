@@ -1,2 +1,2 @@
-# JavaSocket_ChatsCS
+# JavaSocket_ChatsClientServer
 
